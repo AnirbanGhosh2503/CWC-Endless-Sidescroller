@@ -61,17 +61,6 @@ Assets/
 ```
 
 
----
-
-## 📸 Screenshot
-
-<p align="center">
-  <img src="screenshot-platformer.png" width="600"/>
-</p>
-
-
----
-
 ## 📦 Build Status
 
 | Feature | Status |
