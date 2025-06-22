@@ -33,7 +33,6 @@ The player must **jump over obstacles**, land safely, and avoid hazards.
 | Physics Triggers | Obstacle interaction & destruction |
 | Vector3 + Input | Jump direction and control |
 | Script Components | Clean, modular code structure |
-| Object Pooling (Optional) | Optimized spawner setup |
 
 ---
 
@@ -70,7 +69,6 @@ Assets/
   <img src="screenshot-platformer.png" width="600"/>
 </p>
 
-> Replace this placeholder with your in-game screenshot when ready!
 
 ---
 
